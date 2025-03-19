@@ -1,0 +1,14 @@
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\bin\Debug\net9.0\ExerciciosTratamentoExcecoes.exe
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\bin\Debug\net9.0\ExerciciosTratamentoExcecoes.deps.json
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\bin\Debug\net9.0\ExerciciosTratamentoExcecoes.runtimeconfig.json
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\bin\Debug\net9.0\ExerciciosTratamentoExcecoes.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\bin\Debug\net9.0\ExerciciosTratamentoExcecoes.pdb
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.AssemblyInfoInputs.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.AssemblyInfo.cs
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\refint\ExerciciosTratamentoExcecoes.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.pdb
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.genruntimeconfig.cache
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ref\ExerciciosTratamentoExcecoes.dll
