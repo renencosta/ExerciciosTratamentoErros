@@ -12,3 +12,4 @@ C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\D
 C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.pdb
 C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.genruntimeconfig.cache
 C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ref\ExerciciosTratamentoExcecoes.dll
+C:\Users\fic\source\repos\EstruturasRepeticao\ExerciciosTratamentoExcecoes\obj\Debug\net9.0\ExerciciosTratamentoExcecoes.sourcelink.json
